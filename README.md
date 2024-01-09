@@ -1,4 +1,4 @@
-![MasterHead]![image](https://github.com/NaiyaHH/NaiyaHH/assets/156094769/673dee08-f8f4-49af-8959-89e65e18255a)
+![MasterHead](https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif)
 
 #  Hi, my name is Naiya 
 
