@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naiya</h1>
+<h1 align="center">Hi there, I'm Naiya</h1>
 <h3 align="center">Third Year Programming Student</h3>
 <h4 align="center">I enjoy creating simple, clean and effective solutions to complex programming problems with a passion for learning and expanding my development toolkit</h4>
 <h3 align="left">🎓 Achievements</h3>
