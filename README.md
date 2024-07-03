@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naiya</h1>
 <h3 align="center">Third Year Programming Student</h3>
-<h4 align="center">I enjoy creating simple, clean and effective solutions to complex programming problems</h4>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-
+<h4 align="center">I enjoy creating simple, clean and effective solutions to complex programming problems with a passion for learning and expanding my development toolkit</h4>
 <h3 align="left">🎓 Achievements</h3>
 - I obtained 8 distinctions in Second Year
 
